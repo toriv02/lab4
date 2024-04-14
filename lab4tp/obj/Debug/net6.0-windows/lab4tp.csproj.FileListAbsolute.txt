@@ -1,0 +1,17 @@
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.csproj.AssemblyReference.cache
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.Form1.resources
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.csproj.GenerateResource.cache
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.AssemblyInfoInputs.cache
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.AssemblyInfo.cs
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.csproj.CoreCompileInputs.cache
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\bin\Debug\net6.0-windows\lab4tp.exe
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\bin\Debug\net6.0-windows\lab4tp.deps.json
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\bin\Debug\net6.0-windows\lab4tp.runtimeconfig.json
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\bin\Debug\net6.0-windows\lab4tp.dll
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\bin\Debug\net6.0-windows\lab4tp.pdb
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.dll
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\refint\lab4tp.dll
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.pdb
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.genruntimeconfig.cache
+E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\ref\lab4tp.dll
