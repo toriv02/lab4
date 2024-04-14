@@ -28,61 +28,60 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnRefill = new System.Windows.Forms.Button();
-            this.btnGet = new System.Windows.Forms.Button();
-            this.txtOut = new System.Windows.Forms.RichTextBox();
-            this.txtInfo = new System.Windows.Forms.RichTextBox();
-            this.SuspendLayout();
+            btnRefill = new Button();
+            btnGet = new Button();
+            txtOut = new RichTextBox();
+            txtInfo = new RichTextBox();
+            SuspendLayout();
             // 
             // btnRefill
             // 
-            this.btnRefill.Location = new System.Drawing.Point(12, 12);
-            this.btnRefill.Name = "btnRefill";
-            this.btnRefill.Size = new System.Drawing.Size(260, 23);
-            this.btnRefill.TabIndex = 0;
-            this.btnRefill.Text = "Перезаполнить";
-            this.btnRefill.UseVisualStyleBackColor = true;
-            this.btnRefill.Click += new System.EventHandler(this.btnRefill_Click);
+            btnRefill.Location = new Point(12, 12);
+            btnRefill.Name = "btnRefill";
+            btnRefill.Size = new Size(260, 23);
+            btnRefill.TabIndex = 0;
+            btnRefill.Text = "Перезаполнить";
+            btnRefill.UseVisualStyleBackColor = true;
+            btnRefill.Click += btnRefill_Click;
             // 
             // btnGet
             // 
-            this.btnGet.Location = new System.Drawing.Point(188, 92);
-            this.btnGet.Name = "btnGet";
-            this.btnGet.Size = new System.Drawing.Size(75, 99);
-            this.btnGet.TabIndex = 1;
-            this.btnGet.Text = "Взять";
-            this.btnGet.UseVisualStyleBackColor = true;
-            this.btnGet.Click += new System.EventHandler(this.btnGet_Click);
+            btnGet.Location = new Point(188, 92);
+            btnGet.Name = "btnGet";
+            btnGet.Size = new Size(84, 108);
+            btnGet.TabIndex = 1;
+            btnGet.Text = "Взять";
+            btnGet.UseVisualStyleBackColor = true;
+            btnGet.Click += btnGet_Click;
             // 
             // txtOut
             // 
-            this.txtOut.Location = new System.Drawing.Point(12, 92);
-            this.txtOut.Name = "txtOut";
-            this.txtOut.Size = new System.Drawing.Size(170, 99);
-            this.txtOut.TabIndex = 2;
-            this.txtOut.Text = "";
+            txtOut.Location = new Point(12, 92);
+            txtOut.Name = "txtOut";
+            txtOut.Size = new Size(170, 108);
+            txtOut.TabIndex = 2;
+            txtOut.Text = "";
             // 
             // txtInfo
             // 
-            this.txtInfo.BackColor = System.Drawing.SystemColors.Info;
-            this.txtInfo.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtInfo.Location = new System.Drawing.Point(12, 41);
-            this.txtInfo.Name = "txtInfo";
-            this.txtInfo.ReadOnly = true;
-            this.txtInfo.Size = new System.Drawing.Size(260, 34);
-            this.txtInfo.TabIndex = 3;
-            this.txtInfo.Text = "";
+            txtInfo.BackColor = SystemColors.Info;
+            txtInfo.BorderStyle = BorderStyle.None;
+            txtInfo.Location = new Point(12, 41);
+            txtInfo.Name = "txtInfo";
+            txtInfo.ReadOnly = true;
+            txtInfo.Size = new Size(260, 34);
+            txtInfo.TabIndex = 3;
+            txtInfo.Text = "";
             // 
             // Form1
             // 
-            this.ClientSize = new System.Drawing.Size(284, 211);
-            this.Controls.Add(this.txtInfo);
-            this.Controls.Add(this.txtOut);
-            this.Controls.Add(this.btnGet);
-            this.Controls.Add(this.btnRefill);
-            this.Name = "Form1";
-            this.ResumeLayout(false);
-
+            ClientSize = new Size(284, 222);
+            Controls.Add(txtInfo);
+            Controls.Add(txtOut);
+            Controls.Add(btnGet);
+            Controls.Add(btnRefill);
+            Name = "Form1";
+            ResumeLayout(false);
         }
 
         #endregion

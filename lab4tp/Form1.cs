@@ -3,7 +3,7 @@ namespace lab4tp
      
     public partial class Form1 : Form
     {
-        List<Fruit> fruitsList = new List<Fruit>();
+        List<Weather> weathersList = new List<Weather>();
         public Form1()
         {
             InitializeComponent();
@@ -11,20 +11,20 @@ namespace lab4tp
         }
         private void btnRefill_Click(object sender, EventArgs e)
         {
-            this.fruitsList.Clear();
+            this.weathersList.Clear();
             var rnd = new Random();
             for (var i=0;i<10;i++)
             {
                 switch(rnd.Next()%3)// генерирую случайное число от 0 до 2 (ну остаток от деления на 3)
                 {
                     case 0:
-                        this.fruitsList.Add(Mandarin.Generate());
+                        this.weathersList.Add(Sun.Generate());
                         break;
                     case 1:
-                        this.fruitsList.Add(Grapes.Generate());
+                        this.weathersList.Add(Rain.Generate());
                         break;
                     case 2:
-                        this.fruitsList.Add(Watermelon.Generate());
+                        this.weathersList.Add(Snow.Generate());
                         break;
                 }
             }
@@ -33,16 +33,16 @@ namespace lab4tp
        
         private void btnGet_Click(object sender, EventArgs e)
         {
-            if (this.fruitsList.Count == 0) txtOut.Text = "Товаров нет,жди Q_Q";
+            if (this.weathersList.Count == 0) txtOut.Text = "Погоды нет,жди Q_Q";
             else
             {
                 // взяли первый фрукт
-                var fruit = this.fruitsList[0];
+                var weather = this.weathersList[0];
                 // тут вам не реальность, взятие это на самом деле создание указателя на область в памяти
                 // где хранится экземпляр класса, так что если хочешь удалить, делай это сам
-                this.fruitsList.RemoveAt(0);
+                this.weathersList.RemoveAt(0);
                 // ну а теперь предложим покупателю его фрукт
-                txtOut.Text =fruit.GetInfo();
+                txtOut.Text =weather.GetInfo();
                 // обновим информацию о количестве товара на форме
                 ShowInfo();
             }
@@ -51,20 +51,20 @@ namespace lab4tp
         private void ShowInfo()
         {
             //заведём счётчики под каждый тип
-            int mandarinsCount = 0;
-            int grapesCount = 0;
-            int WatermelonCount = 0;
+            int sunsCount = 0;
+            int rainssCount = 0;
+            int snowCount = 0;
             //пройдёмся по всему списку
-            foreach (var fruit in this.fruitsList)
+            foreach (var Weather in this.weathersList)
             {
-                if (fruit is Mandarin) { mandarinsCount++; }
-                else if (fruit is Grapes) { grapesCount++; }
-                else if (fruit is Watermelon) { WatermelonCount++; }
+                if (Weather is Sun) { sunsCount++; }
+                else if (Weather is Rain) { rainssCount++; }
+                else if (Weather is Snow) { snowCount++; }
             }
             // а ну и вывести все это надо на форму
-            txtInfo.Text = "Мндрн\tВнгрд\tАрбуз"; // буквы экнмлю, чтобы влезло на форму
+            txtInfo.Text = "Cолнце\tДождь\tСнег"; // буквы экнмлю, чтобы влезло на форму
             txtInfo.Text += "\n";
-            txtInfo.Text += String.Format("{0}\t{1}\t{2}", mandarinsCount, grapesCount, WatermelonCount);
+            txtInfo.Text += String.Format("{0}\t{1}\t{2}", sunsCount, rainssCount, snowCount);
 
         }
     }

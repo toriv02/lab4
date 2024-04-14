@@ -15,3 +15,20 @@ E:\2-й курс\технологии программирования\4-я ла
 E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.pdb
 E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.genruntimeconfig.cache
 E:\2-й курс\технологии программирования\4-я лабараторная работа\lab4tp\lab4tp\obj\Debug\net6.0-windows\ref\lab4tp.dll
+C:\Users\Admin\Desktop\lab4tp\lab4tp\bin\Debug\net6.0-windows\lab4tp.exe
+C:\Users\Admin\Desktop\lab4tp\lab4tp\bin\Debug\net6.0-windows\lab4tp.deps.json
+C:\Users\Admin\Desktop\lab4tp\lab4tp\bin\Debug\net6.0-windows\lab4tp.runtimeconfig.json
+C:\Users\Admin\Desktop\lab4tp\lab4tp\bin\Debug\net6.0-windows\lab4tp.dll
+C:\Users\Admin\Desktop\lab4tp\lab4tp\bin\Debug\net6.0-windows\lab4tp.pdb
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.Form1.resources
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.sourcelink.json
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.dll
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\refint\lab4tp.dll
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.pdb
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\lab4tp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\lab4tp\lab4tp\obj\Debug\net6.0-windows\ref\lab4tp.dll

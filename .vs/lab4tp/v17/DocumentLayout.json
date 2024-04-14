@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\lab4tp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F38AFA23-4E83-4768-A016-B2024F107FB4}|lab4tp\\lab4tp.csproj|C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38AFA23-4E83-4768-A016-B2024F107FB4}|lab4tp\\lab4tp.csproj|solutionrelative:lab4tp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38AFA23-4E83-4768-A016-B2024F107FB4}|lab4tp\\lab4tp.csproj|c:\\users\\admin\\desktop\\lab4tp\\lab4tp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F38AFA23-4E83-4768-A016-B2024F107FB4}|lab4tp\\lab4tp.csproj|solutionrelative:lab4tp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38AFA23-4E83-4768-A016-B2024F107FB4}|lab4tp\\lab4tp.csproj|c:\\users\\admin\\desktop\\lab4tp\\lab4tp\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38AFA23-4E83-4768-A016-B2024F107FB4}|lab4tp\\lab4tp.csproj|solutionrelative:lab4tp\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\Weather.cs",
+              "RelativeDocumentMoniker": "lab4tp\\Weather.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\Weather.cs",
+              "RelativeToolTip": "lab4tp\\Weather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:06:45.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\Form1.cs",
+              "RelativeDocumentMoniker": "lab4tp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\Form1.cs",
+              "RelativeToolTip": "lab4tp\\Form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:06:45.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\Form1.cs",
+              "RelativeDocumentMoniker": "lab4tp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "lab4tp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:06:46.447Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

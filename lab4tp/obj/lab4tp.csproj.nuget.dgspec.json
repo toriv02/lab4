@@ -1,27 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2-й курс\\технологии программирования\\4-я лабараторная работа\\lab4tp\\lab4tp\\lab4tp.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\lab4tp.csproj": {}
   },
   "projects": {
-    "E:\\2-й курс\\технологии программирования\\4-я лабараторная работа\\lab4tp\\lab4tp\\lab4tp.csproj": {
+    "C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\lab4tp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2-й курс\\технологии программирования\\4-я лабараторная работа\\lab4tp\\lab4tp\\lab4tp.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\lab4tp.csproj",
         "projectName": "lab4tp",
-        "projectPath": "E:\\2-й курс\\технологии программирования\\4-я лабараторная работа\\lab4tp\\lab4tp\\lab4tp.csproj",
-        "packagesPath": "C:\\Users\\stud\\.nuget\\packages\\",
-        "outputPath": "E:\\2-й курс\\технологии программирования\\4-я лабараторная работа\\lab4tp\\lab4tp\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\lab4tp.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\lab4tp\\lab4tp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\stud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -45,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
